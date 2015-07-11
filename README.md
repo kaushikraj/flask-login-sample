@@ -1,6 +1,11 @@
 ## Flask-login Sample
 A simple example for user session management for Flask using Flask-login.
 
+## Installation
+$virtualenv env
+$source env/bin/activate
+$pip install -r requirements.txt
+
 ## Executing the sample
 $python run.py
 
